@@ -42,4 +42,20 @@ Participants are required to build a backend system that:
 ---
 
 ## 📁 Folder Structure
+doc_int/
+│
+├── input/ # Folder containing input PDFs
+├── model/ # Embedding and semantic matching logic
+├── extractor/ # Text + OCR extraction logic
+├── main.py # Entry point: runs persona-based analysis
+├── viewer_template.py # (Optional) HTML renderer
+├── requirements.txt # All required Python packages
+├── Dockerfile # Build file for Docker image
+└── challenge1b_output.json # Final structured JSON output
 
+Docker Instructions:
+Build Docker image:
+docker build --platform linux/amd64 -t docintelligence:1b .
+
+Run Docker container:
+docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/challenge1b_output.json:/app/challenge1b_output.json docintelligence:1b
