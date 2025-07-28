@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance",
+    "processing_timestamp": "2025-07-28T18:25:23.859390"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 1,
+      "section_title": "2. Under Categories, select Identity. 3. Enter your name, organization, and emai...",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 2,
+      "section_title": "Add Cc, subject, message, More Options If you don't want to use the More Options...",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 3,
+      "section_title": "counter-singers). There are two methods to apply fields: 1. Simple Authoring is ...",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "importance_rank": 4,
+      "section_title": "already analyzed. It helps eliminate any latency associated with summarizing vol...",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 5,
+      "section_title": "Allows resizing of fields by clicking the bottom right corner of the field (blue...",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 6,
+      "section_title": "(Optional) To explore advanced options including signer authentication, reminder...",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "importance_rank": 7,
+      "section_title": "You can better understand complex PDF documents because the features provide ins...",
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 1,
+      "refined_text": "2. Under Categories, select Identity. 3. Enter your name, organization, and email address to create your profile. 4. Under Categories, select Signatures. 5. For Document Timestamping, select More. 6. Select Directory Servers on the left, and then select one or more servers on the right. 7. Select Export, select a destination, and then select Next. 8. To prove that the",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 2,
+      "refined_text": "Add Cc, subject, message, More Options If you don't want to use the More Options, skip the next optional step. 4. (Optional) Click More Options, if you want to specify advanced options, such as signer authentication, reminders, and more. By default, the Complete in Order setting is turned on. The numbers by the email addresses reflect the participation order. If",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 3,
+      "refined_text": "counter-singers). There are two methods to apply fields: 1. Simple Authoring is loaded by default in most instances. Simple authoring: Is limited to the most common types of fields: Text input (All Text fields are flagged as Required) Signature Signer's name (Printed) Signer's email Signature date (Read-Only; Supplied by the system) Checkbox Places fields anywhere you click on the document.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "importance_rank": 4,
+      "refined_text": "already analyzed. It helps eliminate any latency associated with summarizing voluminous content. Segmented display: When you start generating the summary for your content, you'll immediately see summarized content for the sections that the Generative summary feature finished processing. Parallel processing: While you engage with the summarized sections, the feature extracts headings, and generates summaries for the subsequent sections. Use generative",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 5,
+      "refined_text": "Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. Advanced authoring: Allows access to all field types (highlighted in yellow) Supports form field detection (highlighted in green) Supports Prefill fields (highlighted in pink)",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "importance_rank": 6,
+      "refined_text": "(Optional) To explore advanced options including signer authentication, reminders, and more, click More Options. To add form fields and specify where to sign, click Specify where to sign. Request signatures Add Cc, subject, message, More Options If you don't want to use the More Options, skip the next optional step. 4. (Optional) Click More Options, if you want to specify",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "importance_rank": 7,
+      "refined_text": "You can better understand complex PDF documents because the features provide insights and more context around the content. - Enhanced productivity: Work across multiple PDFs and documents in various formats, including Teams and Zoom meeting transcripts, streamlining your workflow and saving time for higher-priority tasks. - Impactful content: You can use the content suggestions that the features generate for impactful",
+      "page_number": 3
+    }
+  ]
+}
